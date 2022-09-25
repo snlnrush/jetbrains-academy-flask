@@ -1,2 +1,2 @@
 # JetBrains Academy "Flask Developer" track
-JetBrains Academy "Flask Developer" track
+Flask is one of the most popular frameworks for web development in Python: while Python is mostly used for building backends, Flask also allows you to create a simple frontend for your app without taking too much effort.  Flask is very lightweight and beginner-friendly. Choose this track for an easy start in web development: go from writing a simple app to customizing and deploying it to share with the world.
